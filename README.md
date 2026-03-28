@@ -82,7 +82,7 @@ npm install
 npm run dev
 ```
 
-Сайт будет доступен по адресу **http://localhost:5173**
+Сайт будет доступен по адресу **(https://site-video-course.vercel.app/)**
 
 ### Сборка для продакшена
 
